@@ -1,0 +1,19 @@
+{
+  "name": "vue-2-jest-unit-test-generator",
+  "version": "1.0.0",
+  "description": "Generates Jest unit tests for Vue SFCs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liamrota/vue-2-jest-unit-test-generator.git"
+  },
+  "author": "Liam Kennedy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liamrota/vue-2-jest-unit-test-generator/issues"
+  },
+  "homepage": "https://github.com/liamrota/vue-2-jest-unit-test-generator#readme"
+}
